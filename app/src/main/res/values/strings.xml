@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hero</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="list">List Nama Pahlawan</string>
+    <string name="grid">Foto Pahlawan</string>
+    <string name="with_cardview">Data Lengkap serta Shere nama Pahlawan</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
